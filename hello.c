@@ -4,7 +4,7 @@
   int main (int argc, char **argv){
 
   printf("Logan Puatu\n");
-	println("Computer Science\n");
+	printf("Computer Science\n");
 
   return 0;
   }
